@@ -70,5 +70,6 @@
     <splash height="1536" platform="ios" src="splash/ios/Default-Landscape@2x.png" width="2048" />
     <engine name="android" spec="^7.1.2" />
     
-    <resource-file src="platforms/android/app/src/main/AndroidManifest.xml" target="AndroidManifest.xml" /> 
+    
+    <edit-config file="app/src/main/AndroidManifest.xml" mode="merge" target="/manifest/application" />
 </widget>
