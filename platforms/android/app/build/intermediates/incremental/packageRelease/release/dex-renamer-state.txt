@@ -1,0 +1,4 @@
+#Fri Nov 23 10:59:08 BRST 2018
+base.0=C\:\\Users\\Administrador\\Desktop\\Kartero mobile app2\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

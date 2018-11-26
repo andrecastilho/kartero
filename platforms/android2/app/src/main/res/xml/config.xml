@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="kartero.driver.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:gap="http://phonegap.com/ns/1.0">
+    <feature name="Device">
+        <param name="android-package" value="org.apache.cordova.device.Device" />
+    </feature>
+    <feature name="Geolocation">
+        <param name="android-package" value="org.apache.cordova.geolocation.Geolocation" />
+    </feature>
+    <feature name="InAppBrowser">
+        <param name="android-package" value="org.apache.cordova.inappbrowser.InAppBrowser" />
+    </feature>
+    <feature name="File">
+        <param name="android-package" value="org.apache.cordova.file.FileUtils" />
+        <param name="onload" value="true" />
+    </feature>
+    <allow-navigation href="cdvfile:*" />
+    <feature name="Media">
+        <param name="android-package" value="org.apache.cordova.media.AudioHandler" />
+    </feature>
+    <feature name="NetworkStatus">
+        <param name="android-package" value="org.apache.cordova.networkinformation.NetworkManager" />
+    </feature>
+    <feature name="SplashScreen">
+        <param name="android-package" value="org.apache.cordova.splashscreen.SplashScreen" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="Whitelist">
+        <param name="android-package" value="org.apache.cordova.whitelist.WhitelistPlugin" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="Toast">
+        <param name="android-package" value="nl.xservices.plugins.Toast" />
+    </feature>
+    <feature name="PushNotification">
+        <param name="android-package" value="com.adobe.phonegap.push.PushPlugin" />
+    </feature>
+    <feature name="RequestLocationAccuracy">
+        <param name="android-package" value="cordova.plugin.RequestLocationAccuracy" />
+    </feature>
+    <name>Kartero</name>
+    <description>
+        Kartero Driver App
+    </description>
+    <author email="andrecastilho007@hotmail.com" href="http://cordova.io">
+        bastisapp.com
+    </author>
+    <icon src="icon.png" />
+    <content src="index.html" />
+    <gap:plugin name="cordova-plugin-whitelist" source="npm" />
+    <gap:plugin name="phonegap-plugin-push" source="npm" spec="1.5.3" />
+    <gap:plugin name="cordova-plugin-device" source="npm" />
+    <gap:plugin name="cordova-plugin-inappbrowser" source="npm" />
+    <gap:plugin name="cordova-plugin-splashscreen" source="npm" />
+    <gap:plugin name="cordova-plugin-geolocation" source="npm" />
+    <gap:plugin name="cordova-plugin-network-information" source="npm" />
+    <gap:plugin name="cordova-plugin-request-location-accuracy" source="npm" />
+    <gap:plugin name="cordova-plugin-x-toast" source="npm" />
+    <gap:plugin name="cordova-plugin-media" source="npm" />
+    <variable name="PLAY_SERVICES_VERSION" value="11.8.0" />
+    <access origin="*" />
+    <access launch-external="yes" origin="tel:*" />
+    <gap:config-file parent="/manifest" platform="android">
+        <supports-screens android:largeScreens="true" android:smallScreens="true" android:xlargeScreens="true" />
+        <application android:theme="@android:style/Theme.NoTitleBar">
+        </application>
+    </gap:config-file>
+    <icon platform="android" qualifier="ldpi" src="icons/android/ldpi.png" />
+    <icon platform="android" qualifier="mdpi" src="icons/android/mdpi.png" />
+    <icon platform="android" qualifier="hdpi" src="icons/android/hdpi.png" />
+    <icon platform="android" qualifier="xhdpi" src="icons/android/xhdpi.png" />
+    <icon platform="android" qualifier="xxhdpi" src="icons/android/xxhdpi.png" />
+    <icon platform="android" qualifier="fr-xxhdpi" src="icons/android/fr-xxhdpi.png" />
+    <splash platform="android" qualifier="ldpi" src="splash/android/ldpi.png" />
+    <splash platform="android" qualifier="mdpi" src="splash/android/mdpi.png" />
+    <splash platform="android" qualifier="hdpi" src="splash/android/hdpi.png" />
+    <splash platform="android" qualifier="xhdpi" src="splash/android/xhdpi.png" />
+    <splash platform="android" qualifier="port-xxhdpi" src="splash/android/portrait-xxhdpi.png" />
+    <splash platform="android" qualifier="land-xxhdpi" src="splash/android/landscape-xxhdpi.png" />
+    <icon height="180" platform="ios" src="icons/ios/icon-60@3x.png" width="180" />
+    <icon height="60" platform="ios" src="icons/ios/icon-60.png" width="60" />
+    <icon height="120" platform="ios" src="icons/ios/icon-60@2x.png" width="120" />
+    <icon height="76" platform="ios" src="icons/ios/icon-76.png" width="76" />
+    <icon height="152" platform="ios" src="icons/ios/icon-76@2x.png" width="152" />
+    <icon height="29" platform="ios" src="icons/ios/icon-small.png" width="29" />
+    <icon height="58" platform="ios" src="icons/ios/icon-small@2x.png" width="58" />
+    <icon height="40" platform="ios" src="icons/ios/icon-40.png" width="40" />
+    <icon height="80" platform="ios" src="icons/ios/icon-40@2x.png" width="80" />
+    <icon height="57" platform="ios" src="icons/ios/icon57.png" width="57" />
+    <icon height="114" platform="ios" src="icons/ios/icon@2x.png" width="114" />
+    <icon height="72" platform="ios" src="icons/ios/icon-72.png" width="72" />
+    <icon height="144" platform="ios" src="icons/ios/icon-72@2x.png" width="144" />
+    <icon height="50" platform="ios" src="icons/ios/icon-50.png" width="50" />
+    <icon height="100" platform="ios" src="icons/ios/icon-50@2x.png" width="100" />
+    <splash height="480" platform="ios" src="splash/ios/Default.png" width="320" />
+    <splash height="960" platform="ios" src="splash/ios/Default@2x.png" width="640" />
+    <splash height="1136" platform="ios" src="splash/ios/Default-568h@2x.png" width="640" />
+    <splash height="1334" platform="ios" src="splash/ios/Default-667h@2x.png" width="750" />
+    <splash height="2208" platform="ios" src="splash/ios/Default-Portrait-736h@3x.png" width="1242" />
+    <splash height="1242" platform="ios" src="splash/ios/Default-Landscape-736h@3x.png" width="2208" />
+    <splash height="1024" platform="ios" src="splash/ios/Default-Portrait.png" width="768" />
+    <splash height="768" platform="ios" src="splash/ios/Default-Landscape.png" width="1024" />
+    <splash height="2048" platform="ios" src="splash/ios/Default-Portrait@2x.png" width="1536" />
+    <splash height="1536" platform="ios" src="splash/ios/Default-Landscape@2x.png" width="2048" />
+    <preference name="loglevel" value="DEBUG" />
+    <preference name="orientation" value="portrait" />
+    <preference name="android-build-tool" value="gradle" />
+    <preference name="phonegap-version" value="cli-8.0.0" />
+    <preference name="permissions" value="none" />
+</widget>

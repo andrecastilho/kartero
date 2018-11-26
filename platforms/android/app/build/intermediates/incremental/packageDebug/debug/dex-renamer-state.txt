@@ -1,0 +1,4 @@
+#Mon Nov 26 13:49:25 BRST 2018
+base.0=C\:\\Users\\Administrador\\Desktop\\kartero\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,46 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "kartero.driver.app"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "kartero.driver.app"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "kartero.driver.app"
+    },
+    "cordova-plugin-media": {
+      "PACKAGE_NAME": "kartero.driver.app"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "kartero.driver.app"
+    },
+    "cordova-plugin-request-location-accuracy": {
+      "PACKAGE_NAME": "kartero.driver.app"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "kartero.driver.app"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "kartero.driver.app"
+    },
+    "cordova-plugin-x-toast": {
+      "PACKAGE_NAME": "kartero.driver.app"
+    },
+    "phonegap-plugin-push": {
+      "PACKAGE_NAME": "kartero.driver.app"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "kartero.driver.app"
+    }
+  }
+}

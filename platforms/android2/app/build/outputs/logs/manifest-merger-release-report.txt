@@ -1,0 +1,323 @@
+-- Merging decision tree log ---
+category#kartero.driver.app
+INJECTED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:16:17-61
+	android:name
+		INJECTED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:16:27-58
+permission#kartero.driver.app.permission.C2D_MESSAGE
+INJECTED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:43:5-110
+	android:protectionLevel
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:43:72-107
+	android:name
+		INJECTED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:43:17-71
+uses-permission#kartero.driver.app.permission.C2D_MESSAGE
+INJECTED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:44:5-79
+	android:name
+		INJECTED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:44:22-76
+manifest
+ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:2:1-45:12
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.1.aar\84a4c1f54bc835710a5c41b44ee835f8\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v13:23.4.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-v13-23.4.0.aar\14a7da2e608d6d43cdfc7652ada2df92\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-gcm-16.0.0.aar\6408c42815dff33aef6e06531da54847\AndroidManifest.xml:17:1-28:12
+MERGED from [:CordovaLib] C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\CordovaLib\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:20:1-27:12
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-iid-16.0.0.aar\ab784f00ab44f7d6fa6a569cd892db6c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\db04d9a6e2a87a9530a6d9a5dd17b42a\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.1.aar\1c9c727150f13fbbc469f36922d17cb6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\bdc79f6bbd67ab367340400f761fec57\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\373eeb0d85a923a47a2bbab0d4a1f9a9\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\fcff73f71cf53ae2d16c4de0246ea221\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\fdc8d618848a49c0ab843d3121e7d0d6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\75f6e24b8eaaa684459c0b3470b56a9d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\199f1bfc4121633c7de712c7f4065365\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\ca0eb344ff0728ee1198fc75f2f30be1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4c059e847a9e0c0979d970a3e667d21d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\73ec5cabf721d91b306f20e489508a60\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\13e297f3dfd5bbae66c03603667e5d16\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:2:1-45:12
+	package
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:2:102-130
+		INJECTED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml
+		INJECTED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:2:74-101
+		INJECTED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml
+		INJECTED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml
+	android:hardwareAccelerated
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:2:11-45
+	xmlns:android
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:2:131-189
+	android:versionCode
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:2:46-73
+		INJECTED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml
+		INJECTED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml
+supports-screens
+ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:3:5-191
+	android:largeScreens
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:3:49-76
+	android:smallScreens
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:3:132-159
+	android:normalScreens
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:3:77-105
+	android:xlargeScreens
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:3:160-188
+	android:resizeable
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:3:106-131
+	android:anyDensity
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:3:23-48
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:4:5-67
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-gcm-16.0.0.aar\6408c42815dff33aef6e06531da54847\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-gcm-16.0.0.aar\6408c42815dff33aef6e06531da54847\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-iid-16.0.0.aar\ab784f00ab44f7d6fa6a569cd892db6c\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-iid-16.0.0.aar\ab784f00ab44f7d6fa6a569cd892db6c\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:5:5-30:19
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.1.aar\84a4c1f54bc835710a5c41b44ee835f8\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.1.aar\84a4c1f54bc835710a5c41b44ee835f8\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v13:23.4.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-v13-23.4.0.aar\14a7da2e608d6d43cdfc7652ada2df92\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v13:23.4.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-v13-23.4.0.aar\14a7da2e608d6d43cdfc7652ada2df92\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-gcm-16.0.0.aar\6408c42815dff33aef6e06531da54847\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-gcm-16.0.0.aar\6408c42815dff33aef6e06531da54847\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-iid-16.0.0.aar\ab784f00ab44f7d6fa6a569cd892db6c\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-iid-16.0.0.aar\ab784f00ab44f7d6fa6a569cd892db6c\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\db04d9a6e2a87a9530a6d9a5dd17b42a\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\db04d9a6e2a87a9530a6d9a5dd17b42a\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.1.aar\1c9c727150f13fbbc469f36922d17cb6\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.1.aar\1c9c727150f13fbbc469f36922d17cb6\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\bdc79f6bbd67ab367340400f761fec57\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\bdc79f6bbd67ab367340400f761fec57\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\373eeb0d85a923a47a2bbab0d4a1f9a9\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\373eeb0d85a923a47a2bbab0d4a1f9a9\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\fcff73f71cf53ae2d16c4de0246ea221\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\fcff73f71cf53ae2d16c4de0246ea221\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\fdc8d618848a49c0ab843d3121e7d0d6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\fdc8d618848a49c0ab843d3121e7d0d6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\75f6e24b8eaaa684459c0b3470b56a9d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\75f6e24b8eaaa684459c0b3470b56a9d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\199f1bfc4121633c7de712c7f4065365\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\199f1bfc4121633c7de712c7f4065365\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\ca0eb344ff0728ee1198fc75f2f30be1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\ca0eb344ff0728ee1198fc75f2f30be1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4c059e847a9e0c0979d970a3e667d21d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4c059e847a9e0c0979d970a3e667d21d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\73ec5cabf721d91b306f20e489508a60\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\73ec5cabf721d91b306f20e489508a60\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\13e297f3dfd5bbae66c03603667e5d16\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\13e297f3dfd5bbae66c03603667e5d16\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:5:114-140
+	android:label
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:5:81-113
+	android:hardwareAccelerated
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:5:18-52
+	android:icon
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:5:53-80
+activity#kartero.driver.app.MainActivity
+ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:6:9-11:20
+	android:screenOrientation
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:6:194-230
+	android:label
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:6:97-134
+	android:launchMode
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:6:135-165
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:6:294-336
+	android:configChanges
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:6:19-96
+	android:theme
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:6:231-293
+	android:name
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:6:166-193
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:7:13-10:29
+	android:label
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:7:28-65
+action#android.intent.action.MAIN
+ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:8:17-69
+	android:name
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:8:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:9:17-77
+	android:name
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:9:27-74
+activity#com.adobe.phonegap.push.PushHandlerActivity
+ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:12:9-104
+	android:exported
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:12:19-42
+	android:name
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:12:43-101
+receiver#com.google.android.gms.gcm.GcmReceiver
+ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:13:9-18:20
+	android:exported
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:13:19-42
+	android:permission
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:13:97-157
+	android:name
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:13:43-96
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:kartero.driver.app
+ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:14:13-17:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:15:17-81
+	android:name
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:15:25-78
+service#com.adobe.phonegap.push.GCMIntentService
+ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:19:9-23:19
+	android:exported
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:19:18-42
+	android:name
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:19:43-98
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:20:13-22:29
+service#com.adobe.phonegap.push.PushInstanceIDListenerService
+ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:24:9-28:19
+	android:exported
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:24:18-42
+	android:name
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:24:43-111
+intent-filter#action:name:com.google.android.gms.iid.InstanceID
+ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:25:13-27:29
+action#com.google.android.gms.iid.InstanceID
+ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:26:17-80
+	android:name
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:26:25-77
+service#com.adobe.phonegap.push.RegistrationIntentService
+ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:29:9-110
+	android:exported
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:29:18-42
+	android:name
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:29:43-107
+uses-sdk
+ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:31:5-74
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.1.aar\84a4c1f54bc835710a5c41b44ee835f8\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-location-15.0.1.aar\84a4c1f54bc835710a5c41b44ee835f8\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-v13:23.4.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-v13-23.4.0.aar\14a7da2e608d6d43cdfc7652ada2df92\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:23.4.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-v13-23.4.0.aar\14a7da2e608d6d43cdfc7652ada2df92\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-gcm-16.0.0.aar\6408c42815dff33aef6e06531da54847\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-gcm-16.0.0.aar\6408c42815dff33aef6e06531da54847\AndroidManifest.xml:20:5-44
+MERGED from [:CordovaLib] C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\CordovaLib\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:25:5-44
+MERGED from [:CordovaLib] C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\CordovaLib\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:25:5-44
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-iid-16.0.0.aar\ab784f00ab44f7d6fa6a569cd892db6c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-iid-16.0.0.aar\ab784f00ab44f7d6fa6a569cd892db6c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\db04d9a6e2a87a9530a6d9a5dd17b42a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\db04d9a6e2a87a9530a6d9a5dd17b42a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.1.aar\1c9c727150f13fbbc469f36922d17cb6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-15.0.1.aar\1c9c727150f13fbbc469f36922d17cb6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\bdc79f6bbd67ab367340400f761fec57\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\bdc79f6bbd67ab367340400f761fec57\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\373eeb0d85a923a47a2bbab0d4a1f9a9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\373eeb0d85a923a47a2bbab0d4a1f9a9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\fcff73f71cf53ae2d16c4de0246ea221\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\fcff73f71cf53ae2d16c4de0246ea221\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\fdc8d618848a49c0ab843d3121e7d0d6\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\fdc8d618848a49c0ab843d3121e7d0d6\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\75f6e24b8eaaa684459c0b3470b56a9d\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\75f6e24b8eaaa684459c0b3470b56a9d\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\199f1bfc4121633c7de712c7f4065365\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\199f1bfc4121633c7de712c7f4065365\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\ca0eb344ff0728ee1198fc75f2f30be1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\ca0eb344ff0728ee1198fc75f2f30be1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4c059e847a9e0c0979d970a3e667d21d\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4c059e847a9e0c0979d970a3e667d21d\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\73ec5cabf721d91b306f20e489508a60\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\73ec5cabf721d91b306f20e489508a60\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\13e297f3dfd5bbae66c03603667e5d16\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\13e297f3dfd5bbae66c03603667e5d16\AndroidManifest.xml:20:5-22:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\fdc8d618848a49c0ab843d3121e7d0d6\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:31:42-71
+	android:minSdkVersion
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:31:15-41
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:32:5-81
+	android:name
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:32:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:33:5-79
+	android:name
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:33:22-76
+uses-feature#android.hardware.location.gps
+ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:34:5-66
+	android:name
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:34:19-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:35:5-81
+	android:name
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:35:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:36:5-71
+	android:name
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:36:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:37:5-80
+	android:name
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:37:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:38:5-75
+	android:name
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:38:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:39:5-79
+	android:name
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:39:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:40:5-68
+	android:name
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:40:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:41:5-66
+	android:name
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:41:22-63
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:42:5-82
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-gcm-16.0.0.aar\6408c42815dff33aef6e06531da54847\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-gcm-16.0.0.aar\6408c42815dff33aef6e06531da54847\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-iid-16.0.0.aar\ab784f00ab44f7d6fa6a569cd892db6c\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-iid-16.0.0.aar\ab784f00ab44f7d6fa6a569cd892db6c\AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from C:\Users\Administrador\Desktop\Kartero mobile app\platforms\android\app\AndroidManifest.xml:42:22-79
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\db04d9a6e2a87a9530a6d9a5dd17b42a\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\db04d9a6e2a87a9530a6d9a5dd17b42a\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\db04d9a6e2a87a9530a6d9a5dd17b42a\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\db04d9a6e2a87a9530a6d9a5dd17b42a\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\fcff73f71cf53ae2d16c4de0246ea221\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\fcff73f71cf53ae2d16c4de0246ea221\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\fcff73f71cf53ae2d16c4de0246ea221\AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\fdc8d618848a49c0ab843d3121e7d0d6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\75f6e24b8eaaa684459c0b3470b56a9d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\75f6e24b8eaaa684459c0b3470b56a9d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\199f1bfc4121633c7de712c7f4065365\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\199f1bfc4121633c7de712c7f4065365\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\ca0eb344ff0728ee1198fc75f2f30be1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\ca0eb344ff0728ee1198fc75f2f30be1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4c059e847a9e0c0979d970a3e667d21d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4c059e847a9e0c0979d970a3e667d21d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\73ec5cabf721d91b306f20e489508a60\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\73ec5cabf721d91b306f20e489508a60\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\fdc8d618848a49c0ab843d3121e7d0d6\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\fdc8d618848a49c0ab843d3121e7d0d6\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\13e297f3dfd5bbae66c03603667e5d16\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\13e297f3dfd5bbae66c03603667e5d16\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrador\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\13e297f3dfd5bbae66c03603667e5d16\AndroidManifest.xml:26:13-58
